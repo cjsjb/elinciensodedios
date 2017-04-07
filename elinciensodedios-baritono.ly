@@ -5,6 +5,7 @@
 \header {
 	title = "El incienso de Dios"
 	composer = "Óscar Robles"
+	instrument = "Barítono"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
@@ -35,13 +36,7 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "elinciensodedios-acordes.inc"
-		\new StaffGroup <<
-			\include "elinciensodedios-soprano.inc"
-			\include "elinciensodedios-mezzo.inc"
-			\include "elinciensodedios-tenor.inc"
-			\include "elinciensodedios-baritono.inc"
-		>>
-
+		\include "elinciensodedios-baritono.inc"
 	>>
 
 	\layout {

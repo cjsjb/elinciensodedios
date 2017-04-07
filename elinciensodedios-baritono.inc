@@ -1,13 +1,13 @@
-\context Staff = "tenor" \with { \consists Ambitus_engraver } <<
-	\set Staff.instrumentName = "Tenor"
-	\set Staff.shortInstrumentName = "T."
+\context Staff = "baritono" \with { \consists Ambitus_engraver } <<
+	\set Staff.instrumentName = "Barítono"
+	\set Staff.shortInstrumentName = "B."
 	\set Staff.midiInstrument = "Voice Oohs"
 	\set Score.skipBars = ##t
 	\set Staff.printKeyCancellation = ##f
 	\new Voice \global
 	\new Voice \globalTempo
 
-	\context Voice = "voz-tenor" {
+	\context Voice = "voz-baritono" {
 		\override Voice.TextScript #'padding = #2.0
 		\override MultiMeasureRest #'expand-limit = 1
 
@@ -28,61 +28,61 @@
 		d 1  |
 		r4 e d b,  |
 		e 8. ( d 16 ~ d 8 ) e d 4 d  |
-		r4 e fis fis  |
+		r4 e d b,  |
 		\time 2/4
-		g 8. fis 16 ~ fis 8 g  |
+		e 8. d 16 ~ d 8 e  |
 %% 15
 		\time 4/4
-		a 2 a  |
-		r4 b b b  |
-		a 2 a 4 a 8 a  |
-		b 4. a 8 g 4 a  |
-		c' 2 c'  |
+		fis 2 fis  |
+		r4 g g g  |
+		fis 2 fis 4 fis 8 fis  |
+		g 4. fis 8 e 4 fis  |
+		g 2 g  |
 %% 20
-		r4 b b b  |
-		a 4 r8 a g 8. fis 16 ~ fis 8 g  |
-		g 1  |
-		r4 b b b  |
-		a 4. a 8 a 4 r8 a  |
+		r4 g g g  |
+		fis 4 r8 fis e 8. d 16 ~ d 8 e  |
+		e 1  |
+		r4 g g g  |
+		fis 4. fis 8 fis 4 r8 fis  |
 %% 25
-		b 4. a 8 g 4 a  |
-		c' 4. c' 8 c' 4 c'  |
-		b 2 b 4 r  |
-		a 2 b 4 c'  |
-		c' 1  |
+		g 4. fis 8 e 4 fis  |
+		g 4. g 8 g 4 g  |
+		g 2 g 4 r  |
+		fis 2 g 4 a  |
+		g 1  |
 %% 30
-		b 1  |
+		g 1  |
 		R1*10  |
 		r4 e d b,  |
 		e 8. d 16 ~ d 8 e d 4 d  |
-		r4 e fis fis  |
+		r4 e d b,  |
 		\time 2/4
-		g 8. fis 16 ~ fis 8 g  |
+		e 8. d 16 ~ d 8 e  |
 %% 45
 		\time 4/4
-		a 4. a 8 a 2  |
-		r4 b b b  |
-		a 2 a 4 a 8 a  |
-		b 4. a 8 g 4 a  |
-		c' 2 c'  |
+		fis 4. fis 8 fis 2  |
+		r4 g g g  |
+		fis 2 fis 4 fis 8 fis  |
+		g 4. fis 8 e 4 fis  |
+		g 2 g  |
 %% 50
-		r4 b b b  |
-		a 4 r8 a g 8. fis 16 ~ fis 8 g  |
-		g 1  |
-		r4 b 8 b b 4 b  |
-		a 2 a 4 r8 a  |
+		r4 g g g  |
+		fis 4 r8 fis e 8. d 16 ~ d 8 e  |
+		e 1  |
+		r4 g 8 g g 4 g  |
+		fis 2 fis 4 r8 fis  |
 %% 55
-		b 4. a 8 g 4 a  |
-		c' 4. r8 c' 4 c'  |
-		b 2 b 4 r  |
-		a 4. a 8 b 4 c'  |
-		c' 1  |
+		g 4. fis 8 e 4 fis  |
+		g 4. r8 g 4 g  |
+		g 2 g 4 r  |
+		fis 4. fis 8 g 4 a  |
+		g 1  |
 %% 60
-		b 1  |
+		g 1  |
 		R1  |
 	}
 
-	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
+	\lyricsto "voz-baritono" \new Lyrics \lyricmode {
 		Mit der Dienst un -- seres Le -- bens
 		ha -- ben wir heu -- te be -- gon -- nen
 		der Rich -- tig -- keit, __
