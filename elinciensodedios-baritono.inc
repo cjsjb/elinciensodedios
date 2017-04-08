@@ -83,7 +83,7 @@
 	}
 
 	\lyricsto "voz-baritono" \new Lyrics \lyricmode {
-		Mit der Dienst un -- seres Le -- bens
+		Mit dem Dienst un -- seres Le -- bens
 		ha -- ben wir heu -- te be -- gon -- nen
 		der Rich -- tig -- keit, __
 		Rein -- heit so -- wie Hei -- lig -- keit.
