@@ -99,4 +99,12 @@
 		an -- te tu pre -- sen -- cia, Se -- ñor, ve -- ni -- mos hoy
 		"a o" -- fre -- cer -- te to -- da nues -- tra vi -- da.
 	}
+
+	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+		Viᴙ sind deᴙ Vai -- ɍauj,
+		vel -- jeᴙ foᴙ dem Thɍon feᴙ -- bɍant viɍt
+		in Feᴙ -- e -- ɍung für un -- se -- ɍen Gott.
+		Foᴙ dai -- neᴙ Ge -- gen -- vart, viᴙ kom -- men ħoi -- "te, Oh" Ħerr
+		um un -- seᴙ gan -- tses Le -- ben tsu bi -- ten.
+	}
 >>
