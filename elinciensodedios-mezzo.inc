@@ -82,7 +82,7 @@
 	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
 		Wir sind der Weih -- rauch,
 		wel -- cher vor dem Thron ver -- brannt wird
-		in Ve -- reh -- rung für un -- se -- ren Gott.
+		in Ver -- eh -- rung für un -- se -- ren Gott.
 		Vor dei -- ner Ge -- gen -- wart, wir kom -- men heu -- "te, Oh" Herr
 		um un -- ser gan -- zes Le -- ben zu bie -- ten.
 
