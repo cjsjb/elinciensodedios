@@ -101,10 +101,10 @@
 	}
 
 	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
-		Viᴙ sind deᴙ Vai -- ɍauj,
-		vel -- jeᴙ foᴙ dem Thɍon feᴙ -- bɍant viɍt
-		in Feᴙ -- e -- ɍung für un -- se -- ɍen Gott.
-		Foᴙ dai -- neᴙ Ge -- gen -- vart, viᴙ kom -- men ħoi -- "te, Oh" Ħerr
-		um un -- seᴙ gan -- tses Le -- ben tsu bi -- ten.
+		Via sind dea Vai -- gauj,
+		vel -- jea foa dem Tgon fea -- bgant viet
+		in Fea -- e -- gung fiur un -- se -- gen Gott.
+		Foa dai -- nea Ge -- gen -- vart, via kom -- men joi -- "te, Oh" Jea
+		um un -- sea gan -- tses Le -- ben tsu bi -- ten.
 	}
 >>

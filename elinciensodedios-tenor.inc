@@ -107,18 +107,18 @@
 	}
 
 	\lyricsto "voz-tenor" \new Lyrics \lyricmode {
-		Mit dem Dinst uns -- ɍes Le -- bens
-		ħa -- ben viᴙ ħoi -- te be -- go -- nen
-		deᴙ Rij -- tig -- kait, __
-		Rain -- ħait so -- vi Ħai -- lig -- kait.
+		Mit dem Dinst uns -- ges Le -- bens
+		ha -- ben via joi -- te be -- go -- nen
+		dea Rij -- tig -- kait, __
+		Rain -- jait so -- vi jai -- lig -- kait.
 
 		Um uns dem Gott __ tsu vid -- men
-		als sai -- "ne eᴙ" -- vel -- te Ge -- main -- shaft.
+		als sai -- "ne ea" -- vel -- te Ge -- main -- shaft.
 
-		Viᴙ sind deᴙ Vai -- ɍauj,
-		vel -- jeᴙ foᴙ dem Thɍon feᴙ -- bɍant viɍt
-		in Feᴙ -- e -- ɍung für un -- se -- ɍen Gott.
-		Foᴙ dai -- neᴙ Ge -- gen -- vart, viᴙ kom -- men ħoi -- "te, Oh" Ħerr
-		um un -- seᴙ gan -- tses Le -- ben tsu bi -- ten.
+		Via sind dea Vai -- gauj,
+		vel -- jea foa dem Tgon fea -- bgant viet
+		in Fea -- e -- gung fiur un -- se -- gen Gott.
+		Foa dai -- nea Ge -- gen -- vart, via kom -- men joi -- "te, Oh" Jea
+		um un -- sea gan -- tses Le -- ben tsu bi -- ten.
 	}
 >>
