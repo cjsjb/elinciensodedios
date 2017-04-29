@@ -7,7 +7,7 @@
 	composer = "Óscar Robles"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
-#(set-global-staff-size 16)
+#(set-global-staff-size 20)
 #(set-default-paper-size "letter")
 \paper {
 	#(define line-width (* 7 in))
