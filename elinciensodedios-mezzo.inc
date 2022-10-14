@@ -56,7 +56,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-mezzo" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-mezzo" {
 		He -- mos en -- tra -- do
 		al ser -- vi -- cio "de u" -- na vi -- da
 		de rec -- ti -- tud, __

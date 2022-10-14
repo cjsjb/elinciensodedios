@@ -57,7 +57,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		He -- mos en -- tra -- do
 		al ser -- vi -- cio "de u" -- na vi -- da
 		de rec -- ti -- tud, __
